@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Nyan Lin Htoo.👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=25&pause=1000&color=D718F7&center=true&vCenter=true&random=true&width=435&lines=Happy+to+learn+new+technologies;FullStack+Developer)](https://git.io/typing-svg)
 
 <!--
 **NyanLinHtoo/NyanLinHtoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
