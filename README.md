@@ -5,6 +5,7 @@
 As a fervent Frontend Web Developer, I thrive on pioneering innovative concepts and enriching the community with my discoveries.
 
 ![NyanLinHtoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NyanLinHtoo&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NyanLinHtoo&theme=dark)](https://git.io/streak-stats)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,vite,tailwind,bootstrap,nodejs,mongodb,postgres,git,gitlab,npm,vercel,vscode,xd,windows)](https://skillicons.dev)
