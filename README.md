@@ -1,6 +1,6 @@
 ## Hi there, I'm Nyan Lin Htoo.👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=25&pause=1000&color=D718F7&random=true&width=435&lines=Happy+to+learn+new+technologies;Junior+FullStack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=25&pause=1000&color=D718F7&random=true&width=435&lines=Happy+to+learn+new+technologies;FullStack+Developer)](https://git.io/typing-svg)
 
 As a fervent Frontend Web Developer, I thrive on pioneering innovative concepts and enriching the community with my discoveries.
 
