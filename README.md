@@ -1,10 +1,11 @@
-## Hi there, I'm Nyan Lin Htoo.👋
+![image](https://github.com/user-attachments/assets/0c9aeb8c-729d-4a08-8383-8b0be68ad329)## Hi there, I'm Nyan Lin Htoo.👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=25&pause=1000&color=D718F7&random=true&width=435&lines=Happy+to+learn+new+technologies;FullStack+Developer)](https://git.io/typing-svg)
 
 As a fervent Frontend Web Developer, I thrive on pioneering innovative concepts and enriching the community with my discoveries.
 
 ![NyanLinHtoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=NyanLinHtoo&hide=contribs,prs&show_icons=true&theme=transparent)
+<br> 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NyanLinHtoo&theme=gotham)](https://git.io/streak-stats)
 
 ## Tech Stack
