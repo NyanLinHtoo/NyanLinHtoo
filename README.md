@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0c9aeb8c-729d-4a08-8383-8b0be68ad329)## Hi there, I'm Nyan Lin Htoo.👋
+## Hi there, I'm Nyan Lin Htoo.👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=600&size=25&pause=1000&color=D718F7&random=true&width=435&lines=Happy+to+learn+new+technologies;FullStack+Developer)](https://git.io/typing-svg)
 
