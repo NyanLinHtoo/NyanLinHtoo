@@ -9,7 +9,7 @@ As a fervent Frontend Web Developer, I thrive on pioneering innovative concepts 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NyanLinHtoo&theme=gotham)](https://git.io/streak-stats)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,vite,tailwind,bootstrap,nodejs,mongodb,postgres,git,gitlab,npm,vercel,vscode,xd,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,vite,tailwind,bootstrap,nodejs,golang,mongodb,postgres,git,gitlab,npm,vercel,vscode,xd,windows)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
